@@ -2,14 +2,14 @@
 title: Terms of Service
 ---
 
-> **準備中（公開前の案）** 運営者名・制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the operator name and effective date, are not final yet.
+> **準備中（公開前の案）** 制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the effective date, are not final yet.
 
 ## 日本語
 
 **コードクエスト：バグバスターズ 利用規約**
 制定日: [公開日]
 
-この規約は、[運営者名]（以下「運営者」）が提供するゲーム「コードクエスト：バグバスターズ」（以下「本アプリ」）の利用条件を定めます。本アプリを使った時点で、この規約に同意したものとします。
+この規約は、Ambient Realm Studio（以下「運営者」）が提供するゲーム「コードクエスト：バグバスターズ」（以下「本アプリ」）の利用条件を定めます。本アプリを使った時点で、この規約に同意したものとします。
 
 ### 1. 利用
 本アプリは無料で遊べます。一部の機能はアプリ内課金で購入できます。
@@ -55,7 +55,7 @@ title: Terms of Service
 **Code Quest: Bug Busters Terms of Service**
 Effective date: [Date]
 
-These Terms set out the conditions for using "Code Quest: Bug Busters" (the "App") provided by [Operator name] ("we"). By using the App, you agree to these Terms.
+These Terms set out the conditions for using "Code Quest: Bug Busters" (the "App") provided by Ambient Realm Studio ("we"). By using the App, you agree to these Terms.
 
 ### 1. Use
 The App is free to play. Some features can be purchased through in-app purchases.

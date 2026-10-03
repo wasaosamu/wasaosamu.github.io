@@ -2,7 +2,7 @@
 title: Support
 ---
 
-> **準備中（公開前の案）** 運営者名・制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the operator name and effective date, are not final yet.
+> **準備中（公開前の案）** 制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the effective date, are not final yet.
 
 ## 日本語
 

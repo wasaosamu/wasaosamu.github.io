@@ -2,14 +2,14 @@
 title: Privacy Policy
 ---
 
-> **準備中（公開前の案）** 運営者名・制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the operator name and effective date, are not final yet.
+> **準備中（公開前の案）** 制定日などは確定前です。 / **Draft (pre-release)** Some details, such as the effective date, are not final yet.
 
 ## 日本語
 
 **コードクエスト：バグバスターズ プライバシーポリシー**
 制定日: [公開日]
 
-[運営者名]（以下「運営者」）は、スマートフォン向けゲーム「コードクエスト：バグバスターズ」（以下「本アプリ」）における利用者の情報の取り扱いを以下のとおり定めます。
+Ambient Realm Studio（以下「運営者」）は、スマートフォン向けゲーム「コードクエスト：バグバスターズ」（以下「本アプリ」）における利用者の情報の取り扱いを以下のとおり定めます。
 
 ### 1. 運営者が集める情報
 運営者が氏名、メールアドレス、電話番号、位置情報、連絡先などを集めることはありません。
@@ -58,7 +58,7 @@ title: Privacy Policy
 **Code Quest: Bug Busters Privacy Policy**
 Effective date: [Date]
 
-[Operator name] ("we") explains below how information is handled in the mobile game "Code Quest: Bug Busters" (the "App").
+Ambient Realm Studio ("we") explains below how information is handled in the mobile game "Code Quest: Bug Busters" (the "App").
 
 ### 1. Information we collect
 We do not collect your name, email address, phone number, location, contacts, or similar information.
