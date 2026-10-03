@@ -12,9 +12,9 @@ title: Privacy Policy
 [運営者名]（以下「運営者」）は、スマートフォン向けゲーム「コードクエスト：バグバスターズ」（以下「本アプリ」）における利用者の情報の取り扱いを以下のとおり定めます。
 
 ### 1. 運営者が集める情報
-本アプリにはアカウント登録がなく、運営者はサーバーを持ちません。氏名、メールアドレス、位置情報、連絡先などを運営者が集めることはありません。
+運営者が氏名、メールアドレス、電話番号、位置情報、連絡先などを集めることはありません。
 
-ゲームの進行状況（所持マネー、キャリア、設定、チュートリアルの完了状況、購入状況）は、利用者の端末の中だけに保存されます。運営者には送られません。
+ゲームの進行状況（所持マネー、キャリア、設定、チュートリアルの完了状況）は、利用者の端末に保存されます。あわせて、端末の引き継ぎのため、次の2の表のとおり Unity Technologies のサーバーにも保存されます。購入状況は各ストアが管理します。
 
 ### 2. 第三者のサービスが集める情報
 本アプリは次の外部サービスを使います。これらのサービスは、それぞれのポリシーに従って情報を集めます。
@@ -22,13 +22,15 @@ title: Privacy Policy
 | サービス | 目的 | 集める主な情報 |
 |---|---|---|
 | Google AdMob（Google LLC） | 報酬型広告の配信、広告効果の測定、不正防止 | 広告識別子（IDFA／広告ID）、IPアドレス、端末の機種・OS、広告の表示と操作の記録、おおよその位置（IPアドレスから推定） |
+| Unity Gaming Services（Unity Technologies） | 進行状況の保存と、端末の引き継ぎ | プレイヤーID（自動で発行）、引き継ぎID、パスワード（Unity が暗号化して保管）、進行状況、IPアドレス |
 | Apple App Store／Google Play | アプリ内課金の決済 | 購入履歴など（決済は各ストアが処理し、運営者はカード情報を受け取りません） |
 
 - Google のプライバシーポリシー: https://policies.google.com/privacy
 - Google による情報の使われ方: https://policies.google.com/technologies/partner-sites
+- Unity のプライバシーポリシー: https://unity.com/legal/game-player-and-app-user-privacy-policy
 
 ### 3. 外部送信について
-本アプリは、広告の配信のため、上の表の情報を Google LLC に送信します。
+本アプリは、広告の配信のため上の表の情報を Google LLC に、進行状況の保存と引き継ぎのため上の表の情報を Unity Technologies に送信します。
 
 ### 4. 広告のパーソナライズと利用者の選択
 - iOS: 初回に、トラッキングを許可するかを尋ねる画面（App Tracking Transparency）を表示します。許可しなくても、すべての機能を使えます（表示される広告がパーソナライズされなくなります）。設定アプリの「プライバシーとセキュリティ」→「トラッキング」から、いつでも変えられます。
@@ -39,7 +41,7 @@ title: Privacy Policy
 本アプリは13歳未満の子どもを主な対象としていません。
 
 ### 6. データの削除
-端末に保存されたデータは、オプションの「データ初期化」か、アプリの削除で消せます。運営者はデータを持っていないため、運営者側で消すべきデータはありません。第三者が集めた情報の削除は、各社の手続きに従ってください。
+オプションの「アカウントとデータの削除」で、Unity のサーバーに保存された進行状況・引き継ぎID・プレイヤーIDと、端末のデータをまとめて消せます。「データ初期化」は端末のデータだけを消します。広告のために Google が集めた情報の削除は、Google の手続きに従ってください。
 
 ### 7. 改定
 このポリシーを改定するときは、このページで知らせます。
@@ -59,9 +61,9 @@ Effective date: [Date]
 [Operator name] ("we") explains below how information is handled in the mobile game "Code Quest: Bug Busters" (the "App").
 
 ### 1. Information we collect
-The App has no accounts, and we do not operate servers. We do not collect your name, email address, location, contacts, or similar information.
+We do not collect your name, email address, phone number, location, contacts, or similar information.
 
-Your game progress (in-game money, career, settings, tutorial completion, and purchase status) is stored only on your device. It is never sent to us.
+Your game progress (in-game money, career, settings, and tutorial completion) is stored on your device. To let you transfer it to a new device, it is also stored on Unity Technologies' servers, as described in the table in section 2. The stores manage your purchase status.
 
 ### 2. Information collected by third parties
 The App uses the following third-party services. Each service collects information under its own policy.
@@ -69,10 +71,12 @@ The App uses the following third-party services. Each service collects informati
 | Service | Purpose | Main information collected |
 |---|---|---|
 | Google AdMob (Google LLC) | Serving rewarded ads, measuring ad performance, preventing fraud | Advertising identifier (IDFA / Advertising ID), IP address, device model and OS, ad views and interactions, approximate location (estimated from the IP address) |
+| Unity Gaming Services (Unity Technologies) | Saving progress and transferring it between devices | Player ID (issued automatically), transfer ID, password (stored encrypted by Unity), game progress, IP address |
 | Apple App Store / Google Play | Processing in-app purchases | Purchase history, etc. (the stores handle payment, and we never receive your card details) |
 
 - Google Privacy Policy: https://policies.google.com/privacy
 - How Google uses information: https://policies.google.com/technologies/partner-sites
+- Unity Privacy Policy: https://unity.com/legal/game-player-and-app-user-privacy-policy
 
 ### 3. Ad personalization and your choices
 - iOS: When you first open the App, we ask whether you allow tracking (App Tracking Transparency). You can use every feature even if you decline; you will just see non-personalized ads. You can change this at any time in Settings > Privacy & Security > Tracking.
@@ -83,7 +87,7 @@ The App uses the following third-party services. Each service collects informati
 The App is not directed at children under 13.
 
 ### 5. Deleting data
-You can erase the data on your device with "Reset data" in the options, or by uninstalling the App. We hold no data about you, so there is nothing for us to delete. To delete information collected by a third party, follow that company's procedures.
+"Delete account and data" in the options erases your progress, transfer ID, and player ID from Unity's servers, together with the data on your device. "Reset data" erases only the data on your device. To delete information Google collected for ads, follow Google's procedures.
 
 ### 6. Changes
 If we change this policy, we will post the update on this page.

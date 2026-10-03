@@ -22,7 +22,7 @@ title: Terms of Service
 - ゲーム内マネーと、それで得たものは、現金や他のサービスと交換できません。
 
 ### 3. データの保存
-進行状況は端末の中だけに保存します。端末の故障、紛失、アプリの削除、「データ初期化」によって消えたデータは、運営者が復元できません。購入した広告スキップ権などは「購入の復元」で戻せます。
+進行状況は端末と Unity Technologies のサーバーに保存します。引き継ぎコード（引き継ぎIDとパスワード）を発行しておけば、別の端末へ移せます。引き継ぎコードを発行していない場合や、パスワードを忘れた場合、「アカウントとデータの削除」を行った場合は、運営者はデータを復元できません。購入した広告スキップ権などは「購入の復元」で戻せます。
 
 ### 4. 禁止事項
 - 本アプリの改造、解析、不正なツールの使用
@@ -68,7 +68,7 @@ The App is free to play. Some features can be purchased through in-app purchases
 - In-game money, and anything obtained with it, cannot be exchanged for cash or for other services.
 
 ### 3. Data storage
-Your progress is stored only on your device. We cannot recover data that is lost because your device breaks or is lost, because you uninstall the App, or because you use "Reset data." Non-consumable purchases, such as the ad-skip pass, can be recovered with "Restore purchases."
+Your progress is stored on your device and on Unity Technologies' servers. If you issue a transfer code (a transfer ID and a password), you can move your progress to another device. We cannot recover your data if you never issued a transfer code, if you forget your password, or if you use "Delete account and data." Non-consumable purchases, such as the ad-skip pass, can be recovered with "Restore purchases."
 
 ### 4. Prohibited conduct
 - Modifying or reverse-engineering the App, or using cheating tools
