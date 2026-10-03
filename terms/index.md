@@ -41,7 +41,7 @@ title: Terms of Service
 運営者はこの規約を変更できます。変更後の規約はこのページに掲載した時点で効力を持ちます。
 
 ### 8. 準拠法と裁判所
-この規約は日本法に従います。本アプリに関する紛争は、[運営者の所在地を管轄する地方裁判所]を第一審の専属的合意管轄裁判所とします。
+この規約は日本法に従います。本アプリに関する紛争は、さいたま地方裁判所を第一審の専属的合意管轄裁判所とします。
 
 ### 9. お問い合わせ
 メールでお問い合わせください: ambientrealm.studio@gmail.com
@@ -87,7 +87,7 @@ The App contains rewarded ads. Ad networks deliver the ad content, and we are no
 We may change these Terms. Revised Terms take effect when they are posted on this page.
 
 ### 8. Governing law and jurisdiction
-These Terms are governed by the laws of Japan. The [district court with jurisdiction over the operator's location] has exclusive jurisdiction as the court of first instance.
+These Terms are governed by the laws of Japan. The Saitama District Court, Japan, has exclusive jurisdiction as the court of first instance.
 
 ### 9. Contact
 Please contact us by email: ambientrealm.studio@gmail.com
